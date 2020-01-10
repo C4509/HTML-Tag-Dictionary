@@ -34,14 +34,14 @@ attributes: none
 
 Example: <ol><li>one</li><li>two</li><li>three</li></ol>
 
-li:
+li: List tag, used to specify list item in unordered, ordered, directory, and menu lists.
 
-attributes:
+attributes: none
 
-Example:
+Example: <ol><li>one</li><li>two</li></ol>
 
-img: Image
+img: Image tag, inserts an image file
 
 attributes: src
 
-Example
+Example: <img src="towns_44084.jpg">
