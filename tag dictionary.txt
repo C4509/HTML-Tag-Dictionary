@@ -1,0 +1,47 @@
+a: Anchor tag, makes text into a hyperlink
+
+attributes: href
+
+Example: <p><a href="https://www.youtube.com/">here</a></p>
+
+h1: Header tag, makes text large and puts on separate line 
+ 
+attributes: none 
+
+example:<h1>Mr. Pelletier</h1>
+
+h6: Reader tag, like h1 but with smaller text. There are header tags from h1 to h6, with h6 being the smallest. Good for subheadings.
+
+attributes: none
+
+Example: <h6>Hi</h6>
+
+P: Paragraph tag 
+
+attributes: none
+
+Example: <p>Hi. My name is Name.</p>
+
+ul: Unordered list, sorts text into a bulleted lists
+
+attributes: none
+
+Example: <ul><li>one</li><li>two</li><li>three</li></ul>
+
+ol: Ordered list, sorts text into a numbered list
+
+attributes: none
+
+Example: <ol><li>one</li><li>two</li><li>three</li></ol>
+
+li:
+
+attributes:
+
+Example:
+
+img: Image
+
+attributes: src
+
+Example
