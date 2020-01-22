@@ -40,6 +40,18 @@ attributes: none
 
 Example: <h6>Hi</h6>
 
+style: Style tag, gives browser things to think about
+
+attributes: None
+
+Example: <style>text</style>
+
+Div: Creates a box around text, used with style tag
+
+attributes: none
+
+Example: <style>div{text}</style>
+
 P: Paragraph tag 
 
 attributes: none
