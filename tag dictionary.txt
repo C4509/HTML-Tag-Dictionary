@@ -28,6 +28,12 @@ attributes: none
 
 Example: <body>paragraph</body>
 
+br: Break tag, makes a line break
+
+attributes: None
+
+Example: <br>text</br>
+
 h1: Header tag, makes text large and puts on separate line 
  
 attributes: none 
